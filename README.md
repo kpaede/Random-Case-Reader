@@ -1,6 +1,14 @@
 # Random-Case-Reader
 Randomizes letter case of page text.
 
+How to install:
+
+1. Add as a new script in your Tampermonkey Browser Extension.
+
+2. Toggle to activate it in the Tampermoney menu.
+
+3. Visit any Website.
+
 ```
 // ==UserScript==
 // @name         Random Case Reader
