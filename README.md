@@ -1,5 +1,5 @@
 # Random-Case-Reader
-Randomizes letter case of page text.
+Alternating caps / spongecases for any page text.
 
 How to install:
 
